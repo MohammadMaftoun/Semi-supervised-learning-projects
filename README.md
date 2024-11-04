@@ -4,8 +4,8 @@ Welcome to the Semi-Supervised Learning Projects Repository, a curated collectio
 From transfer learning techniques to community-driven initiatives for dataset creation and labeling, our collection encompasses various methods of semi-supervised learning tailored specifically for GitHub's unique ecosystem. We encourage collaboration, contributions, and the sharing of insights to encourage innovation and promote the field of machine learning.
 
 # Examples:
-    Identifying topics of fraud: In finance, semi-supervised learning can be used to train systems for identifying cases of fraud or shakedown. Rather than hand-labeling thousands of individual instances, engineers can start with a few labeled examples and proceed with one of the semi-supervised learning approaches described above.
-    Classifying content on the web: The internet is a large zone, and new websites are put up all the time. To serve valid search results it’s necessary to classify massive amounts of this web content, which can be done with semi-supervised learning.
-    Analyzing audio and images: This is conceivably the most widespread use of semi-supervised learning. When audio files or image files are developed they’re often not labeled, which makes it challenging to use them for machine learning. Beginning with a small subset of human-labeled data, however, this problem can be overcome.
+    Identifying fraud topics: In finance, semi-supervised learning can be used to train systems for identifying cases of fraud or shakedown. Rather than hand-labeling thousands of individual instances, engineers can start with a few labeled examples and proceed with one of the semi-supervised learning approaches described above.
+    Classifying content on the web: The internet is a large zone, and new websites are constantly put up. To serve valid search results it’s necessary to classify massive amounts of this web content, which can be done with semi-supervised learning.
+    Analyzing audio and images: This is conceivably the most widespread use of semi-supervised learning. When audio files or image files are developed they’re often not labeled, which makes it challenging to use them for machine learning. However, this problem can be overcome with a small subset of human-labeled data.
 
 
